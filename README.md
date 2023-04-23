@@ -1,2 +1,2 @@
 # Rufier
-Rufier test desktop app
+Desktop app "Rufier Test"
